@@ -1,0 +1,2 @@
+Warsaw,Poland,1,5.013000,2.010000
+Hertfordshire,England,2,51.810000,0.240000

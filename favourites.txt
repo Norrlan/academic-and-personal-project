@@ -1,0 +1,4 @@
+Birmingham,UnitedKingdom,UKBirms,23121,24627
+London,UnitedKingdom,UKLondon,7521,8752
+Deblin,Poland,-1,51.5627,21.8653
+Warsaw,Poland,1,5.013000,2.010000
